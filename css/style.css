@@ -7,28 +7,16 @@
 
 /* HEADER */
 header{
-    height: 100px;
-    background-image: url(https://ignacioggdnvideojuegos.files.wordpress.com/2023/05/fondo-marron.jpg);
-    padding: 0 50px;
+    height: 90px;
+    background-size:cover;
+    background-position:bottom;
+    background-image: url(https://ignacioggdnvideojuegos.files.wordpress.com/2023/09/fondo-perfolio.png);
+    padding: 0 80px;
     color: #fff;
     display: flex;
+    justify-content: flex-end;
     justify-content: space-between;
-    align-items: center;
-}
-
-.contenido-banner{
-    display: flex;
-    background-size: cover;
-    background-position: center;
-    justify-content: center;
-    align-items: center;
-    background-image: url(https://ignacioggdnvideojuegos.files.wordpress.com/2023/05/portadoa.jpg);
-    width: 100%;
-    height: 960px;
-}
-
-.titulo{
-    width: 100%;  
+    align-items:center;
 }
 
 .contenido-pie{
@@ -66,7 +54,7 @@ header{
     background-position: center;
     justify-content: center;
     align-items: center;
-    background-color: slategray;
+    background-color: çwhite;
     width: 100%;
     height: 960px; 
 }
