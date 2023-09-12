@@ -8,9 +8,7 @@
 /* HEADER */
 header{
     height: 90px;
-    background-size:cover;
-    background-position:bottom;
-    background-image: url(https://ignacioggdnvideojuegos.files.wordpress.com/2023/09/fondo-perfolio.png);
+    background-color: black;
     padding: 0 80px;
     color: #fff;
     display: flex;
